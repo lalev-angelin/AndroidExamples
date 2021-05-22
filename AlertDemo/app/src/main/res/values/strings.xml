@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AlertDemo</string>
+    <string name="ok">Добре</string>
+    <string name="cancel">Отказ</string>
+    <string name="hello_world">Здравей, свят!!!</string>
+    <string name="you_have_pressed_ok">Вие натиснахте бутон "Добре"</string>
+    <string name="you_have_pressed_cancel">Вие натиснахте бутон "Отказ"</string>
+</resources>
