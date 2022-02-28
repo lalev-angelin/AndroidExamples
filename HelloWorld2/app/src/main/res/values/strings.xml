@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Здравей, свят!</string>
+    <string name="ok">Добре</string>
+    <string name="nok">Отказ</string>
+    <string name="butt1caption">Бутон 1</string>
+    <string name="butt2caption">Бутон 2</string>
+    <string name="butt3caption">Бутон 3</string>
+    <string name="textvalue">Тревога!!!!</string>
+
+</resources>
